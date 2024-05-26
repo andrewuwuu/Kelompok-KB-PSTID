@@ -1,1 +1,1 @@
-Ini adalah reppositori untuk source code tugas kecerdasan buatan PSTI D 2024
+Ini adalah repositori untuk source code tugas kecerdasan buatan PSTI D 2024
